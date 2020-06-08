@@ -12,3 +12,4 @@ Nerdy & The Brain | [My OSINT CTF Journey - Part 3](https://nerdyandthebrain.com
 RagSec | [Trace Labs Global Missing Persons CTF – July 2019](https://ragsec.co.uk/trace-labs-global-missing-persons-ctf-july-2019)
 AzuleOnyx | [Trace Labs CTF Judge vs Member](https://cyberfenixtech.blogspot.com/2019/10/trace-labs-ctf-judge-vs-member.html)
 wondersmith_rae | [Finding Missing People with Trace Labs CTF](https://medium.com/@raebaker/finding-missing-people-with-tracelabs-ctf-d5617c7cd659)
+AaronCTI | [Trace Labs Missing Persons CTF IV — Review & Summary](https://medium.com/@AaronCTI/trace-labs-missing-persons-ctf-iv-review-summary-6ed1fdef9937)
