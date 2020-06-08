@@ -13,3 +13,4 @@ RagSec | [Trace Labs Global Missing Persons CTF – July 2019](https://ragsec.co
 AzuleOnyx | [Trace Labs CTF Judge vs Member](https://cyberfenixtech.blogspot.com/2019/10/trace-labs-ctf-judge-vs-member.html)
 wondersmith_rae | [Finding Missing People with Trace Labs CTF](https://medium.com/@raebaker/finding-missing-people-with-tracelabs-ctf-d5617c7cd659)
 AaronCTI | [Trace Labs Missing Persons CTF IV — Review & Summary](https://medium.com/@AaronCTI/trace-labs-missing-persons-ctf-iv-review-summary-6ed1fdef9937)
+Micah Hoffman | [#OSINTforGood: Using Open-Source Intelligence to Solve Real-World Problems](https://www.sans.org/blog/osintforgood-using-open-source-intelligence-to-solve-real-world-problems/)
