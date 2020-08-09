@@ -14,3 +14,6 @@ AzuleOnyx | [Trace Labs CTF Judge vs Member](https://cyberfenixtech.blogspot.com
 wondersmith_rae | [Finding Missing People with Trace Labs CTF](https://medium.com/@raebaker/finding-missing-people-with-tracelabs-ctf-d5617c7cd659)
 AaronCTI | [Trace Labs Missing Persons CTF IV — Review & Summary](https://www.aaroncti.com/trace-labs-iv/)
 Micah Hoffman | [#OSINTforGood: Using Open-Source Intelligence to Solve Real-World Problems](https://www.sans.org/blog/osintforgood-using-open-source-intelligence-to-solve-real-world-problems/)
+Charlie Rivera (th3cyb3rguy) | [I’ll Be The Judge Of That](https://th3cyb3rguy.com/2020/08/09/ill-be-the-judge-of-that/)
+Amanda Szampias | [Tracelabs Global Missings Person CTF: Defcon Edition Review](http://amandaszampias.blogspot.com/2020/08/tracelabs-global-missings-person-ctf.html)
+Brigada OSINT | [Osint Search Party 8-2020](https://www.brigadaosint.com/osint-search-party-8-2020/)
