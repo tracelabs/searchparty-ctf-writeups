@@ -17,3 +17,5 @@ Micah Hoffman | [#OSINTforGood: Using Open-Source Intelligence to Solve Real-Wor
 Charlie Rivera (th3cyb3rguy) | [I’ll Be The Judge Of That](https://th3cyb3rguy.com/2020/08/09/ill-be-the-judge-of-that/)
 Amanda Szampias | [Tracelabs Global Missings Person CTF: Defcon Edition Review](http://amandaszampias.blogspot.com/2020/08/tracelabs-global-missings-person-ctf.html)
 Brigada OSINT | [Osint Search Party 8-2020](https://www.brigadaosint.com/osint-search-party-8-2020/)
+AaronCTI | [Trace Labs CTF August 2020 – Approach & Methodology](https://www.aaroncti.com/trace-labs-august-2020/)
+Levitannin | [From the Judge’s Seat: A TraceLabs CTF Recount](https://medium.com/@levitannin/from-the-judges-seat-a-tracelabs-ctf-recount-49b0d1c3c89a?sk=dd8e0e26c7daa2d220c14d261ff01362)
