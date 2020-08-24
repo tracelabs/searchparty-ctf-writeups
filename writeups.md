@@ -19,3 +19,4 @@ Amanda Szampias | [Tracelabs Global Missings Person CTF: Defcon Edition Review](
 Brigada OSINT | [Osint Search Party 8-2020](https://www.brigadaosint.com/osint-search-party-8-2020/)
 AaronCTI | [Trace Labs CTF August 2020 – Approach & Methodology](https://www.aaroncti.com/trace-labs-august-2020/)
 Levitannin | [From the Judge’s Seat: A TraceLabs CTF Recount](https://medium.com/@levitannin/from-the-judges-seat-a-tracelabs-ctf-recount-49b0d1c3c89a?sk=dd8e0e26c7daa2d220c14d261ff01362)
+SecBoyUK | [5th Place in TraceLab/SANS OSINT Search Party CTF](https://secboyuk.wordpress.com/2020/08/23/5th-place-in-tracelab-sans-osint-ctf/)
