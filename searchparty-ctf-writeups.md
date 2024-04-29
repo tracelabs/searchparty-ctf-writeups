@@ -15,7 +15,7 @@ ID Cyber Training UK | April 2023 | [Finding the Lost: Working Together to Locat
 **2022**
 Author | Date | Link
 ------|-------|------------
-CHase Matheson | March 2022 [OSINT Methodology and Tradecraft: Tips for Winning The Trace Labs Black Badge from Team Federal Bureau oh OH SHINT](https://medium.com/@cyberbychase/osint-methodology-and-tradecraft-tips-for-winning-the-trace-labs-black-badge-from-team-federal-ebe737d70c6a)
+Chase Matheson | March 2022 | [OSINT Methodology and Tradecraft: Tips for Winning The Trace Labs Black Badge from Team Federal Bureau oh OH SHINT](https://medium.com/@cyberbychase/osint-methodology-and-tradecraft-tips-for-winning-the-trace-labs-black-badge-from-team-federal-ebe737d70c6a)
 Sarah Williams | August 2022 | [Trace Labs Search Party CTF from a n00b’s perspective](https://www.linkedin.com/pulse/trace-labs-search-party-ctf-from-n00bs-perspective-sarah-williams/)
 
 **2021**
