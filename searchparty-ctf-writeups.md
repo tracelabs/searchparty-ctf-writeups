@@ -5,7 +5,9 @@ Author | Date | Link
 ------|-------|------------
 Selene DeForest | Jan 2024 | [Search Party CTF with TraceLabs, January 2024](https://medium.com/@selenedeforest/search-park-ctf-with-tracelabs-january-2024-918fcf92292e)
 Shandyman | Jan 2024 | [Leveraging AI in our OSINT CTF Investigations](https://shandyman.online/blog/leveraging-ai-in-our-osint-ctf-investigations/)
-Jack LaFond | April 2024| [Seek, and you shall F!ND - How Team F!ND won our first ever Search Party CTF](https://lafond.id/blog/tracelabs)
+Jack LaFond | April 2024 | [Seek, and you shall F!ND - How Team F!ND won our first ever Search Party CTF](https://lafond.id/blog/tracelabs)
+0p3nM1nd0SINT | November 2024 | [How We Went From 27th to 2nd Place at the Trace LabsCTF and Had Fun Along the Way](https://medium.com/@whole_shadow_leopard_729/how-we-went-from-27th-to-2nd-place-at-the-tracelabs-ctf-and-had-fun-along-the-way-2d91b8128ea6)
+Shiza Hidayet Khan and Clara Broekaert | November 2024 | [Trace Labs CTF Search Party: The Bedwarrior's quest to finding missing people](https://www.linkedin.com/pulse/trace-labs-ctf-search-party-bedwarriors-quest-finding-clara-broekaert-sv4ne?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 
 **2023**
 Author | Date | Link
