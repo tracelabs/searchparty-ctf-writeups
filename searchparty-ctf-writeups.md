@@ -58,7 +58,6 @@ TraceLabs | Sept 2019 | [Tales from DEFCON 27's Missing Persons CTF Winners - Te
 # List of Coach (Formerly Judge) Writeups
 Author | Date | Link
 ------|-------|------------
-AzuleOnyx | Oct 2019 | [Trace Labs CTF Judge vs Member](https://cyberfenixtech.blogspot.com/2019/10/trace-labs-ctf-judge-vs-member.html)
 Levitannin | Aug 2020 | [From the Judge’s Seat: A TraceLabs CTF Recount](https://medium.com/@levitannin/from-the-judges-seat-a-tracelabs-ctf-recount-49b0d1c3c89a?sk=dd8e0e26c7daa2d220c14d261ff01362)
 Amanda Zampias | Sept 2020 | [Tracelabs Judge Writeup: SANS and Global Missing Persons CTF September 2020 ](https://amandaszampias.blogspot.com/2020/09/tracelabs-judge-writeup-sans-and-global.html)
 VEEXH | Oct 2022 | [What InfoSec Professionals Can Gain From TraceLabs CTF](https://medium.com/the-sleuth-sheet/what-infosec-professionals-can-gain-from-tracelabs-ctf-2b8252658633)
