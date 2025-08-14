@@ -1,5 +1,10 @@
 # List of Contestant Writeups 
 
+**2025**
+Author | Date | Link
+------|-------|------------
+OSINTI4L | April 2025 | [How To: Pivot, TraceLabs CTF Write-up and Pivot Workflow](https://github.com/OSINTI4L/The-Kitchen-Sink/wiki/How-To:-Pivot)
+
 **2024**
 Author | Date | Link
 ------|-------|------------
