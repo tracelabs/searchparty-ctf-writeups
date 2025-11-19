@@ -3,7 +3,7 @@
 **2025**
 Author | Date | Link
 ------|-------|------------
-OSINTI4L | Nov 2025 | [TraceLabs-CTF-MVO-Write-up-11.25](https://github.com/OSINTI4L/TraceLabs-CTF-MVO-Write-up-11.25)
+OSINTI4L | November 2025 | [TraceLabs-CTF-MVO-Write-up-11.25](https://github.com/OSINTI4L/TraceLabs-CTF-MVO-Write-up-11.25)
 
 **2024**
 Author | Date | Link
