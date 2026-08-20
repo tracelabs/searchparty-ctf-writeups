@@ -1,4 +1,4 @@
-_** ⚠️ !! This github repository is no longer being maintained. All of our searchparty writeups can now be found on our website: https://docs.tracelabs.org/searchparty/writeups. Submitting new write-ups is done via a discord support ticket. !! ⚠️ **_
+⚠️ _**!! This github repository is no longer being maintained. All of our searchparty writeups can now be found on our website: https://docs.tracelabs.org/searchparty/writeups. Submitting new write-ups is done via a discord support ticket. !!**_ ⚠️
 
 # List of Contestant Writeups 
 
